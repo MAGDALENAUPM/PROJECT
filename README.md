@@ -1,1 +1,3 @@
 # PROJECT
+X=10
+MAGD=10
